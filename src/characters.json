@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "image": "https://www.ssbwiki.com/images/thumb/e/e1/Mario_SSB4.png/250px-Mario_SSB4.png",
+    "clicked":false,
+    "name":"Mario"
+  },
+  {
+    "id": 2,
+    "image": "https://www.ssbwiki.com/images/thumb/f/f3/Sonic_SSB4.png/250px-Sonic_SSB4.png",
+    "clicked":false,
+    "name":"Sonic"
+  },
+  {
+    "id": 3,
+    "image": "https://www.ssbwiki.com/images/thumb/3/32/Link_SSB4.png/250px-Link_SSB4.png",
+    "clicked":false,
+    "name":"Link"
+  },
+  {
+    "id": 4,
+    "image": "https://www.ssbwiki.com/images/thumb/6/6f/Pac-Man_SSB4.png/250px-Pac-Man_SSB4.png",
+    "clicked":false,
+    "name":"PacMan"
+  },
+  {
+    "id": 5,
+    "image": "https://www.ssbwiki.com/images/thumb/2/29/Yoshi_SSB4.png/250px-Yoshi_SSB4.png",
+    "clicked":false,
+    "name":"Yoshi"
+  },
+  {
+    "id": 6,
+    "image": "https://www.ssbwiki.com/images/thumb/e/e2/Luigi_SSB4.png/250px-Luigi_SSB4.png",
+    "clicked":false,
+    "name":"Luigi"
+  },
+  {
+    "id": 7,
+    "image": "https://www.ssbwiki.com/images/thumb/d/d5/Bowser_SSB4.png/250px-Bowser_SSB4.png",
+    "clicked":false,
+    "name":"Bowser"
+  },
+  {
+    "id": 8,
+    "image": "https://www.ssbwiki.com/images/thumb/7/74/Fox_SSB4.png/250px-Fox_SSB4.png",
+    "clicked":false,
+    "name":"Fox"
+  },
+  {
+    "id": 9,
+    "image": "https://www.ssbwiki.com/images/thumb/b/bf/Mega_Man_SSB4.png/250px-Mega_Man_SSB4.png",
+    "clicked":false,
+    "name":"Mega Man"
+  },
+  {
+    "id": 10,
+    "image": "https://www.ssbwiki.com/images/thumb/e/ed/Kirby_SSB4.png/250px-Kirby_SSB4.png",
+    "clicked":false,
+    "name":"Kirby"
+  },
+  {
+    "id": 11,
+    "image": "https://www.ssbwiki.com/images/thumb/e/e4/Samus_SSB4.png/250px-Samus_SSB4.png",
+    "clicked":false,
+    "name":"Samus"
+  },
+  {
+    "id": 12,
+    "image": "https://www.ssbwiki.com/images/thumb/1/1a/Ness_SSB4.png/250px-Ness_SSB4.png",
+    "clicked":false,
+    "name":"Ness"
+  }
+]

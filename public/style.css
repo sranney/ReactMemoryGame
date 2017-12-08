@@ -1,0 +1,20 @@
+.wrapper{
+	display:flex;
+	justify-content:space-around;
+	flex-wrap:wrap;
+}
+
+.character{
+	margin-left:10px;
+	flex-basis:25%;
+}
+
+.character.card.center-align.blue.lighten-4{
+	border:5px solid #004d40;
+	transition:0.4s all ease;
+}
+
+.character.card.center-align.blue.lighten-4:hover{
+	transform:scale(1.1);
+	box-shadow:0px 0px 30px black;
+}
